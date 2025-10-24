@@ -1,7 +1,7 @@
 {
   "name": "wasisession",
   "version": "1.0.0",
-  "description": "WhatsApp Session Generator (Updated)",
+  "description": "WhatsApp Session Generator (Always Latest Dependencies)",
   "main": "./itxxwasi.js",
   "engines": {
     "npm": ">=9.7.2",
@@ -13,15 +13,15 @@
   "author": "WasiTech",
   "license": "GPL-3.0",
   "dependencies": {
-    "@whiskeysockets/baileys": "^6.7.18",
-    "maher-zubair-baileys": "^6.6.5",
-    "qrcode": "^1.5.4",
-    "awesome-phonenumber": "^5.2.0",
-    "pino": "^9.4.0",
-    "phone": "^3.1.32",
-    "body-parser": "^1.20.3",
-    "pastebin-js": "^1.0.7",
-    "express": "^4.21.1",
-    "path": "^0.12.7"
+    "@whiskeysockets/baileys": "latest",
+    "maher-zubair-baileys": "latest",
+    "qrcode": "latest",
+    "awesome-phonenumber": "latest",
+    "pino": "latest",
+    "phone": "latest",
+    "body-parser": "latest",
+    "pastebin-js": "latest",
+    "express": "latest",
+    "path": "latest"
   }
 }
